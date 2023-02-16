@@ -1,0 +1,7 @@
+C:\practice C#\Geometry\Geometry\bin\Debug\Geometry.exe.config
+C:\practice C#\Geometry\Geometry\bin\Debug\Geometry.exe
+C:\practice C#\Geometry\Geometry\bin\Debug\Geometry.pdb
+C:\practice C#\Geometry\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+C:\practice C#\Geometry\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+C:\practice C#\Geometry\Geometry\obj\Debug\Geometry.exe
+C:\practice C#\Geometry\Geometry\obj\Debug\Geometry.pdb
